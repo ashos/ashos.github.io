@@ -1,5 +1,7 @@
 ## AstOS (Arch Snapshot Tree OS)
 
+![astos-logo](logo.png)
+
 AstOS is a modern distribution based on [Arch Linux](https://archlinux.org).  
 Unlike Arch it uses an immutable (read-only) root filesystem.  
 Software is installed and configured into individual snapshot trees, which can then be deployed and booted into.  
