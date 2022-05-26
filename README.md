@@ -18,11 +18,13 @@ This is a sneak-peek at Astos tree structure. One can have all these in one comp
 - A Gnome desktop with TKG kernel for gaming with Nvidia drivers
 - An instance Sway windows manager
 
+```
 ├── 0 - base image
 └── 1 - multiuser system
     └── 4 - applications
         ├── 6 - MATE full desktop
         └── 2*- Plasma full desktop
+```
 
 # More Information
 There is a lot more to Astos. Please take a look at [official repository](https://github.com/astos/astos) to get more acquainted with Astos!
