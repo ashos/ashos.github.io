@@ -16,9 +16,9 @@ It doesn't use it's own package format or package manager, instead relying on [p
 
 This is a sneak-peek at Astos tree structure. One can have all these in one computer in an immutable way:
 - An absolutely bare minimum base
-- A Gnome desktop with touch/tablet drivers installe
+- A Gnome desktop with touch/tablet drivers installed
 - A Gnome desktop with TKG kernel for gaming with Nvidia drivers
-- An instance Sway windows manager
+- An instance with Sway windows manager
 
 ```
 ├── 0 - base image
