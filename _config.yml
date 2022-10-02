@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: AstOS
-description: An immutable Arch based distribution utilizing btrfs snapshots
+title: AshOS
+description: The immutable tree-shaped meta-distribution
+
